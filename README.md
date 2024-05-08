@@ -140,8 +140,6 @@ Publish the website in the LocalHost.
 </html>
 ```
 ## OUTPUT:
-```
 ![Screenshot 2024-04-28 232251](https://github.com/ThangaDeepika/Pharma/assets/125663099/6ac7413b-463f-46e2-85b7-e3afe93d407a)
-```
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
